@@ -1,5 +1,5 @@
 # Patatap-Clone
-A simple clone of the [Patatap](https://patatap.com/) application using the PaperJS and HowlerJs libraries.
+A clone of the [Patatap](https://patatap.com/) web application using the PaperJS and HowlerJs libraries.
 Press any key from A to Z to enjoy animations with sounds.
 
 # Motivation
